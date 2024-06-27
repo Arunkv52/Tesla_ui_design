@@ -1,0 +1,19 @@
+.menu-Left img {
+    width: 130px;
+    height: auto;
+}
+.Top_menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+
+.Center-Menu ul,
+.Right-Menu ul {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 38px;
+    list-style-type: none;
+}
